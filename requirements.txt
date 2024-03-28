@@ -8,7 +8,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 cookiecutter==2.6.0
 exceptiongroup==1.2.0
-fastapi==0.110.0
+fastapi==0.109.2
 flet==0.21.0
 flet-core==0.21.0
 flet-runtime==0.21.0
